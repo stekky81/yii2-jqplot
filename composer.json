@@ -1,5 +1,5 @@
 {
-    "name": "sizeg/yii2-jqplot",
+    "name": "stekky81/yii2-jqplot",
     "description": "Yii2 jqPlot widget renders charts and graphs based on jQuery Plotting Plugin",
     "require": {
         "php": ">=5.4.0",
@@ -7,7 +7,7 @@
     },
     "autoload": {
         "psr-4": {
-            "sizeg\\jqplot\\": ""
+            "stekky81\\jqplot\\": ""
         }
     }
 }
